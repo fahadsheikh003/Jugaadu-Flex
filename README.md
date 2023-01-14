@@ -14,10 +14,11 @@ This script has stopped working bacause the issue has been patched.
 * After logging in, just the script and see the magic in the terminal.
 
 ### Output
-<p>
+#### Batch 20 CySec
+<p align="center">
   <img src="https://user-images.githubusercontent.com/87650614/212497016-f9b8bf1c-69e0-466b-9a77-b50731883757.png" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://user-images.githubusercontent.com/87650614/212497087-326cb286-68d6-49f2-a212-f13ae9001646.png" />
 </p>
