@@ -40,3 +40,5 @@ This script has stopped working bacause the issue has been patched.
   <img src="https://user-images.githubusercontent.com/87650614/212497559-e419996d-0ba3-406a-ae9a-12b3d41a7718.png" />
 </p>
 
+## Disclaimer
+This code is provided for educational purposes only. The code is not intended to be used for malicious purposes or to gain unauthorized access to any system. The author of this code takes no responsibility for any misuse of the code. Use at your own risk.
